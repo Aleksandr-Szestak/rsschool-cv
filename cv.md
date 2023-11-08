@@ -11,6 +11,8 @@ I like to learn and develop new skills.
 - HTML5, CSS3
 - Git/GitHub
 - VSCode, Figma
+
+
 ### Code example:
 ```
 function outMax(n){
@@ -28,7 +30,7 @@ function outMax(n){
 ### Education:
 - BSUIR, Computer systems and networks
 - RS School Stage 0
+
+
 ### English:
 Level A2
-
-
