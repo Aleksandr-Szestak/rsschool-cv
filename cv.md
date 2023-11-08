@@ -14,7 +14,7 @@ I like to learn and develop new skills.
 
 
 ### Code example:
-```
+```JavaScript
 function outMax(n){
   let maxSt = 0;
   let a = Math.abs(n);
