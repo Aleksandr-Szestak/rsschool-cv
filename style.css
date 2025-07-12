@@ -59,7 +59,27 @@ body {
 
 /* ------------------------------------- */
 
-
+.footer {
+    background-color: gray;
+    margin-top: 15px;
+}
+  
+.logo {
+    display: contents;  
+}
+  
+.logo > img {
+    margin: 0;
+    width: 100px;
+}
+  
+.footer-inner {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0 10px;
+}
 /* ------------------------------------- */
 #notext {
     display: none;
