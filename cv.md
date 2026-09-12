@@ -19,4 +19,9 @@ function countDigits(n) {
   return count;
 }
 ```
-
+### Skills
+- _JavaScript_
+- _HTML5, CSS3_
+- _Git/GitHub_
+- _VSCode, Figma_
+- _Chrome DevTools_
