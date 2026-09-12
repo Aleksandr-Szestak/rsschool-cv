@@ -25,8 +25,10 @@ function countDigits(n) {
 - _Git/GitHub_
 - _VSCode, Figma_
 - _Chrome DevTools_
+
 ### Education
 - _BSUIR, Computer systems and networks_
 - _Information Security courses, focused on cybersecurity, network security, and data protection_
+
 ### English
 _Level A2_
