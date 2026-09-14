@@ -109,3 +109,25 @@ body {
 }
 
 /* ----------------------------- */
+.footer {
+    background-color: gray;
+    margin-top: 15px;
+}
+
+.footer-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 0;
+  margin: 0 5px;
+}
+
+/* .footer-link img {
+  margin-top: 5px;
+  width: 50%;
+}
+
+.logo > img {
+    margin: 0;
+    width: 100px;
+} */
