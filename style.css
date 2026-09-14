@@ -1,3 +1,5 @@
+/* common */
+
 html {
     scroll-behavior: smooth;
 }
@@ -33,6 +35,9 @@ body {
   display: none;
 }
 
+
+/* header */
+
 .header {
     background-color: gray;
 }
@@ -58,7 +63,9 @@ body {
   color: #f6fa02;
 }
 
-/* ----------------------------- */
+
+/* main */
+
 .main-container {
     display: flex;
     flex-wrap: wrap;
@@ -108,7 +115,9 @@ body {
   margin-left: 10px;
 }
 
-/* ----------------------------- */
+
+/* footer */
+
 .footer {
     background-color: gray;
     margin-top: 15px;
