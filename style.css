@@ -29,3 +29,27 @@ body {
     margin: 0 auto;
 }
 
+.header {
+    background-color: gray;
+}
+
+.menu {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+.menu-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    color: white;
+    transition: 1s;
+}
+
+.menu-link:hover {
+  color: #f6fa02;
+}
